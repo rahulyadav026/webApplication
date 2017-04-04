@@ -1,0 +1,2 @@
+# webApplication
+struts
